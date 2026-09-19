@@ -16,7 +16,7 @@ metadata:
 - Setting up linting, formatting, or type-checking rules
 
 ## Scope Boundaries
-Envoke this skill for: 
+Invoke this skill for: 
 - Descriptive naming
 - Immutability defaults
 - Readability, KISS, DRY, and YAGNI principle enforcement
@@ -33,9 +33,9 @@ Do not use this skill for:
 ## Code Quality Principles
 ### 1. Readability First
 - Code is read more than written
-- Clear varaible and function names that follow consistent naming conventions
+- Clear variable and function names that follow consistent naming conventions
 - Self-documenting code with minimal comments
-- Consisting formatting and style
+- Consistent formatting and style
 
 ### 2. KISS (Keep It Simple, Stupid)
 - Avoid unnecessary complexity
