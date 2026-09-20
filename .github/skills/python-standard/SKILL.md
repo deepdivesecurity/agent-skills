@@ -87,3 +87,12 @@ if None == arg:
 if arg is not None:
     pass
 ```
+
+```python
+# Bad: Assigning a lambda function to a variable
+f = lambda x: 2 * x
+
+# Good: Using a regular function E731
+def f(x):
+    return 2 * x
+```
