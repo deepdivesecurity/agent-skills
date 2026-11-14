@@ -1,3 +1,3 @@
-# Architectural Decisions
+# Decisions
 
 Document major decisions and reasoning.
