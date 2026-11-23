@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <img src="./assets/images/logo.png" alt="Agent Skills Logo" width="80" height="80">
+  <img src="./assets/images/logo.png" alt="Agent Skills Logo" width="160" height="160">
 
   <h3 align="center">Agent Skills</h3>
 
